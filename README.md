@@ -8,5 +8,6 @@ A simple command-line calculator that can perform addition, subtraction, multipl
 - Command-line interface
 
 ## How to Run
+1. Clone the repository:
 ```bash
-python calculator.py
+git clone https://github.com/makbul10/calculator-python.git
